@@ -1,0 +1,14 @@
+# General
+node_modules/
+*.log
+*.lock
+
+# Environment variables
+.env
+
+# Client-side
+/client/dist/
+/client/node_modules/
+
+# Server-side
+/server/node_modules/
