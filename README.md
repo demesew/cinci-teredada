@@ -26,33 +26,52 @@ Cinci Teredada is a dynamic web application for local communities, allowing regi
 
 1. Clone the repository:
 
-```git clone https://github.com/demesew/cinci-teredada.git```
+```
+git clone https://github.com/demesew/cinci-teredada.git
+```
 
 2. Install server dependencies:
 
-```cd cinci-teredada/server```
-```npm install```
+```
+cd cinci-teredada/server
+```
+```
+npm install
+```
 
 3. Install client dependencies:
 
-```cd cinci-teredada/client```
-```npm install```
+```
+cd cinci-teredada/client
+```
+```
+npm install
+```
 
 
 ## Running the project
 
 1. Start the server:
 
-```cd cinci-teredada/server```
-```npm start```
+```
+cd cinci-teredada/server
+```
+```
+npm start
+```
+
 
 
 2. Start the client:
 
-```cd cinci-teredada/client```
-```npm run serve```
+```
+cd cinci-teredada/client
+```
+```
+npm run serve
+```
 
-3. Open your browser and visit `http://localhost:8080`.
+3. Open your browser and visit [ttp://localhost:8080](http://localhost:8080).
 
 ## Deployment
 
